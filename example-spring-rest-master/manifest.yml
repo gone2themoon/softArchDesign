@@ -1,0 +1,8 @@
+---
+applications:
+- name: example-spring-rest
+  memory: 512M
+  instances: 1
+  random-route: true
+  host: example-spring-rest-${random-word}
+  path: target/example-spring-rest-0.1.0-SNAPSHOT.jar
