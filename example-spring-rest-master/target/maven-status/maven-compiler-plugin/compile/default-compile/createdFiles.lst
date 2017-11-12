@@ -1,0 +1,9 @@
+io\demo\model\GPSCoordinates.class
+io\demo\model\Location.class
+io\demo\rest\LocationController.class
+io\demo\Application.class
+io\demo\store\Store.class
+io\demo\model\ILocation.class
+io\demo\rest\SwaggerController.class
+io\demo\store\InMemoryStore.class
+io\demo\config\SwaggerConfig.class
