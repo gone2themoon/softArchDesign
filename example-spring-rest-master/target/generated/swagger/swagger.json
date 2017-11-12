@@ -1,8 +1,0 @@
-{
-  "swagger" : "2.0",
-  "info" : {
-    "version" : "v0.1",
-    "title" : "Swipe Panel Location Service"
-  },
-  "basePath" : "/web/rest/"
-}
